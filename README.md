@@ -1,4 +1,8 @@
-#Front-end Coding Challenge
+## Front-end Coding Challenge
+
+## Demo of the application can be accessed via below link
+
+https://album-app-frontend.herokuapp.com/
 
 ## Goal:
 
