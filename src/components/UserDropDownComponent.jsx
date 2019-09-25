@@ -40,7 +40,7 @@ class UserDropDownComponent extends Component {
                     <h1 className="display-4">Photo Album App</h1>
                     <p className="lead">This is a simple photo album application. Users can able to see all the user details, albums associated with a particular user and all the photos in the selected album</p>
                     <hr className="my-4" />
-                    <p>Please select the user from above dropdown to vie the albums associated with them</p>
+                    <p>Please select the user from above dropdown to view the albums associated with them</p>
                     <Link className="btn btn-primary btn-lg" to="/users" role="button">View All Users</Link>
                 </div>
             </div>
